@@ -1,7 +1,7 @@
-2019.32.0.0
+2019.35.5.0
 Updates
 -------------
-Added a fix for Teslas 24.4 encoding bug - 32.0
+Added a fix for Teslas 24.4+ encoding bug - 32.0
 Added "Dutch" to supported languages - 30.0
 Added auto refresh of 'Explorer' window when a new drive is inserted - 30.0
 Added 'Sentry' indication in saved rendered videos - 30.0
@@ -29,6 +29,7 @@ Still FREE! - Please Donate!
 …………………………………………………………….
 Bug Fixes 
 -------------
+Minor bug fixes and improvements - 35.5
 Keyboard shortcut for full screen - 30.2
 Sentry indicator disabled when only one clip is in an event folder - 30.2
 Fixed minor bugs  - 30.0
