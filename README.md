@@ -1,4 +1,5 @@
-## `Tesla's software update 2019.24.4 has changed how the TeslaCam files are saved/encoded. TeslaCam Viewer 2019.35.5.0 has a fix for this bug, Download it and check out the YouTube Demo on how to use it from the links below.` 
+## `This version of TeslaCam Viewer is no longer active and the project has moved to TeslaCam Viewer II ` 
+## Link to [TeslaCam Viewer II](https://github.com/NateMccomb/TeslaCamViewerII#teslacam-viewer-ii)
 
 # TeslaCamViewer  
 A file viewer and video editor for TeslaCam
@@ -15,26 +16,7 @@ I have included a precompiled version in the Binary folder for easy install.
 
 ### Help support Nate in making future improvements though PayPal [![Donate](https://github.com/NateMccomb/TeslaCamViewer/raw/master/TeslaCam%20Viewer/Resources/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8UKFUQCU9476N&source=url)
 
-Version 2019.35.5.0 - With Video Editor/Export Options
-======================================
-#### .NET Framework 3.5 must be installed
-## [Windows Installer Version](https://github.com/NateMccomb/TeslaCamViewer/raw/master/Binary/Installer-TeslaCamViewer-2019.35.5.0.zip) - Includes .NET and everything needed for a full install. Start Menu and Desktop shortcuts created
-                    
-## [Standalone Version](https://github.com/NateMccomb/TeslaCamViewer/raw/master/Binary/Standalone-TeslaCamViewer-2019.35.5.0.zip) - Just unzip and run. Great for keeping a copy on your TeslaCam Flash Drive
-
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) ` If TeslaCam Viewer crashes the first time you select a folder and no error messages pop up then check out` [This Link](https://github.com/NateMccomb/TeslaCamViewer/issues/2#issuecomment-514275810).
-
-### [YouTube Demo](https://youtu.be/6n0JWAkoJaE) on how to use TeslaCam Viewer
-
-### [TeslaCam Viewer Stats](https://docs.google.com/spreadsheets/d/1QExW5ax8b3OHAjb-edN6RNC_9lUsP0ZlznMPyr7h_mI/preview#gid=1111298063) 
-
-* Larger install files due to including FFmpeg for video editing
-* Remove FFmpeg.exe to disable export functions
-* Multi-Language Support 
-
-![Multi-Language](https://github.com/NateMccomb/TeslaCamViewer/raw/master/TeslaCam%20Viewer/Resources/TeslaCam%20Viewer%20Language%20Selection.png)
-
-## [Feature request or give user feedback here](https://docs.google.com/forms/d/e/1FAIpQLScl0Eg_RRAbHcJf2tBZ42SrP5RkOWo1xrL4O763WsmPCgqXWA/viewform)
+# Link to [TeslaCam Viewer II](https://github.com/NateMccomb/TeslaCamViewerII#teslacam-viewer-ii)
 
 
 Features
